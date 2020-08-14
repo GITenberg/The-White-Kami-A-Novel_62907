@@ -1,0 +1,30 @@
+_repo: The-White-Kami-A-Novel_62907
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jewell, Edward Alden
+    birthdate: 1888
+    deathdate: 1947
+    gutenberg_agent_id: '51474'
+    url: http://www.gutenberg.org/2009/agents/51474
+description: ''
+gutenberg_issued: '2020-08-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62907'
+  lccn: '22007436'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Opium abuse -- Fiction'
+- !lcsh 'Islands -- Fiction'
+- !lcsh 'Clerks -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- GITenberg
+title: 'The White Kami: A Novel'
+url: http://www.gutenberg.org/ebooks/62907
