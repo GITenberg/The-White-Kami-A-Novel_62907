@@ -1,5 +1,8 @@
 _repo: The-White-Kami-A-Novel_62907
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62907-h/images/cover.jpg
 creator:
   author:
     agent_name: Jewell, Edward Alden
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '51474'
     url: http://www.gutenberg.org/2009/agents/51474
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62907#The-White-Kami-A-Novel
 gutenberg_issued: '2020-08-11'
 gutenberg_type: Text
 identifiers:
